@@ -1,0 +1,25 @@
+{
+  "name": "projetodh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grupo01PDA/Grupo01PDA.git"
+  },
+  "author": "Ana Laura, Guilherme, Wanderson, Walmir, Walyson, João Vitor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grupo01PDA/Grupo01PDA/issues"
+  },
+  "homepage": "https://github.com/Grupo01PDA/Grupo01PDA#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
